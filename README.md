@@ -1,0 +1,1 @@
+The project is available online through https://rconnect.stolaf.edu/connect/#/apps/d1dc3a2a-027a-459b-965a-3a31a5307a53/access. This project has been done in the scope of MSCS164 course at St. Olaf College during Spring 2024 semester.
